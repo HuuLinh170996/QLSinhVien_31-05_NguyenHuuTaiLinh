@@ -1,0 +1,17 @@
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\UsingADO.NET_\bin\Debug\UsingADO.NET_.exe.config
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\UsingADO.NET_\bin\Debug\UsingADO.NET_.exe
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\UsingADO.NET_\bin\Debug\UsingADO.NET_.pdb
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\UsingADO.NET_\obj\Debug\UsingADO.NET.csprojResolveAssemblyReference.cache
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\UsingADO.NET_\obj\Debug\UsingADO.NET_.Properties.Resources.resources
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\UsingADO.NET_\obj\Debug\UsingADO.NET.QLSinhVienForm.resources
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\UsingADO.NET_\obj\Debug\UsingADO.NET.csproj.GenerateResource.Cache
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\UsingADO.NET_\obj\Debug\UsingADO.NET_.exe
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\UsingADO.NET_\obj\Debug\UsingADO.NET_.pdb
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\UsingADO.NET_\bin\Debug\EntityFramework.dll
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\UsingADO.NET_\bin\Debug\EntityFramework.SqlServer.dll
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\UsingADO.NET_\bin\Debug\NuGet.Frameworks.dll
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\UsingADO.NET_\bin\Debug\System.Data.Common.dll
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\UsingADO.NET_\bin\Debug\System.Data.SqlClient.dll
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\UsingADO.NET_\bin\Debug\EntityFramework.xml
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\UsingADO.NET_\bin\Debug\EntityFramework.SqlServer.xml
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\UsingADO.NET_\bin\Debug\NuGet.Frameworks.xml

@@ -1,0 +1,1 @@
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\UsingADO.NET_\bin\Debug\UsingADO.NET_.exe.config

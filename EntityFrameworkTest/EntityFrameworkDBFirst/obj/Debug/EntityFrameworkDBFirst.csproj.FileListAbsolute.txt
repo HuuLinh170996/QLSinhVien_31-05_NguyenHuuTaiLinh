@@ -1,0 +1,5 @@
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\EntityFrameworkDBFirst\bin\Debug\EntityFrameworkDBFirst.exe.config
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\EntityFrameworkDBFirst\obj\Debug\EntityFrameworkDBFirst.csprojResolveAssemblyReference.cache
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\EntityFrameworkDBFirst\obj\Debug\EntityFrameworkDBFirst.Properties.Resources.resources
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\EntityFrameworkDBFirst\obj\Debug\EntityFrameworkDBFirst.QLSinhVienForm.resources
+D:\lab\Lab_WinForm\BaiTap_31-5_2015719-NguyenHuuTaiLinh\EntityFrameworkTest\EntityFrameworkDBFirst\obj\Debug\EntityFrameworkDBFirst.csproj.GenerateResource.Cache
